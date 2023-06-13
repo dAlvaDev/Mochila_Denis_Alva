@@ -1,7 +1,10 @@
-# Mochila_Denis_Alva
+# Bimestre 01
+![Presentacion](https://i.ibb.co/Gp4k6bQ/IntroInf.png "Presentacion")
+## Installation
 
-# **DIGITAL HOUSE**
-## Introducción a la informática
+Installing the repository.
 
-![Digital House](https://i.ibb.co/JFd0PCz/Digital-House.jpg)
+```sh
+git clone https://github.com/dAlvaDev/Mochila_Denis_Alva.git
 
+```
